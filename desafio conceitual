@@ -1,0 +1,15 @@
+Cenário 1
+
+TCP. Porque o arquivo precisa chegar completo e sem perda ou alteração dos dados.
+
+Cenário 2
+
+UDP. Porque a videoconferência precisa de baixa latência e transmissão em tempo real.
+
+Cenário 3
+
+TCP. Porque uma operação financeira precisa de confiabilidade e garantia de entrega correta dos dados.
+
+Cenário 4
+
+UDP. Porque o jogo precisa de velocidade e baixa latência para manter as informações em tempo real.
